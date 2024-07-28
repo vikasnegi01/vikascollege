@@ -1,2 +1,2 @@
-# vikascollege
-this my learning pace.
+# vikas-college
+GIthub is lerning time .
